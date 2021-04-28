@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\bin\Debug\netcoreapp3.1\Sample 3.exe
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\bin\Debug\netcoreapp3.1\Sample 3.deps.json
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\bin\Debug\netcoreapp3.1\Sample 3.runtimeconfig.json
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\bin\Debug\netcoreapp3.1\Sample 3.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\bin\Debug\netcoreapp3.1\Sample 3.dll
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\bin\Debug\netcoreapp3.1\Sample 3.pdb
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\obj\Debug\netcoreapp3.1\Sample 3.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\obj\Debug\netcoreapp3.1\Sample 3.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\obj\Debug\netcoreapp3.1\Sample 3.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\obj\Debug\netcoreapp3.1\Sample 3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\obj\Debug\netcoreapp3.1\Sample 3.dll
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\obj\Debug\netcoreapp3.1\Sample 3.pdb
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day5\Sample 3\Sample 3\obj\Debug\netcoreapp3.1\Sample 3.genruntimeconfig.cache
